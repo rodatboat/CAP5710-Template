@@ -1,0 +1,7 @@
+﻿E:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (CAP5710.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  PA1 Draft.cpp
+E:\vstudio projects\CAP5710\PA1 Draft.cpp(16,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\vstudio projects\CAP5710 Assignment 1\Dependencies\freeglut\include\gl\freeglut_std.h(627,32): warning C4505: 'glutCreateMenu_ATEXIT_HACK': unreferenced function with internal linkage has been removed
+E:\vstudio projects\CAP5710\PA1 Draft.cpp(61,13): warning C4505: 'resize': unreferenced function with internal linkage has been removed
+  CAP5710.vcxproj -> E:\vstudio projects\CAP5710 Assignment 1\x64\Debug\CAP5710 Assignment 1.exe
+          1 file(s) copied.

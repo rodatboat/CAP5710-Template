@@ -1,0 +1,8 @@
+E:\vstudio projects\CAP5710\x64\Debug\CAP5710.vcxproj.MdMergeInputs.cache
+E:\vstudio projects\CAP5710\x64\Debug\CAP5710.vcxproj.cppwinrt_plat.cache
+E:\vstudio projects\CAP5710\x64\Debug\CAP5710.vcxproj.cppwinrt_comp.cache
+E:\vstudio projects\CAP5710\x64\Debug\CAP5710.exe
+E:\vstudio projects\CAP5710 Assignment 1\x64\Debug\CAP5710.vcxproj.MdMergeInputs.cache
+E:\vstudio projects\CAP5710 Assignment 1\x64\Debug\CAP5710.vcxproj.cppwinrt_plat.cache
+E:\vstudio projects\CAP5710 Assignment 1\x64\Debug\CAP5710.vcxproj.cppwinrt_comp.cache
+E:\vstudio projects\CAP5710 Assignment 1\x64\Debug\CAP5710 Assignment 1.exe
